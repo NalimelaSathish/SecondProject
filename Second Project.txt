@@ -8,3 +8,16 @@ This is my second project
 
 I would like to add some text in this is notes to test my codes
 
+So the code is working 
+
+Please update the file 
+
+with the below commands
+ 
+git add .
+
+git commit -m "message"
+
+git push -u origin main
+
+the end
